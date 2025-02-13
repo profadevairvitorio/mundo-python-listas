@@ -1,4 +1,4 @@
-# Peça dois números inteiros e mostre o resultado da divisão inteira e o resto.
+# 8. Peça dois números inteiros e mostre o resultado da divisão inteira e o resto.
 
 # Solicitar o primeiro número inteiro
 num1 = int(input("Digite o primeiro número inteiro: "))

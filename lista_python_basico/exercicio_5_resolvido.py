@@ -1,4 +1,4 @@
-# Calcular a área de um retângulo com base e altura fornecidas pelo usuário
+# 5. Calcular a área de um retângulo com base e altura fornecidas pelo usuário
 
 # Solicitar a base
 base = float(input("Digite a base do retângulo: "))

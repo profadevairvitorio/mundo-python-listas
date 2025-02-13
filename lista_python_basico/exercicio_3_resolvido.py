@@ -1,4 +1,4 @@
-# Peça um número inteiro e mostre o dobro dele.
+# 3. Peça um número inteiro e mostre o dobro dele.
 # Solicitar ao usuário um número inteiro
 # A função input() recebe o número como uma string, então usamos int() para converter a string em um número inteiro.
 numero = int(input("Digite um número inteiro: "))

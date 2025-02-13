@@ -1,4 +1,4 @@
-# Solicitar o valor total da compra
+# 7. Solicitar o valor total da compra
 valor_compra = float(input("Digite o valor da compra: "))
 
 # Solicitar o valor pago pelo cliente

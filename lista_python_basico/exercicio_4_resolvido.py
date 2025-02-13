@@ -1,4 +1,4 @@
-# Solicitar ao usuário a temperatura em Celsius
+# 4. Solicitar ao usuário a temperatura em Celsius
 # A função input() recebe o valor como uma string, então usamos float() para converter em número decimal.
 celsius = float(input("Digite a temperatura em Celsius: "))
 

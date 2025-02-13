@@ -1,4 +1,4 @@
-# Peça ao usuário dois números inteiros e exiba a soma deles.
+# 1. Peça ao usuário dois números inteiros e exiba a soma deles.
 
 # Solicitar ao usuário o primeiro número
 numero1 = int(input("Digite o primeiro número inteiro: "))

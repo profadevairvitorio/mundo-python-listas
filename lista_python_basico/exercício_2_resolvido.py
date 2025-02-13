@@ -1,4 +1,4 @@
-# Solicite duas notas (números decimais) e exiba a média.
+# 2. Solicite duas notas (números decimais) e exiba a média.
 
 # Solicitar ao usuário a primeira nota (número decimal)
 # A função input() pede ao usuário para digitar um valor.

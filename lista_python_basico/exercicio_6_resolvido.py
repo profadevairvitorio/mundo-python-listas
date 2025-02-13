@@ -1,4 +1,4 @@
-# Pedir um número ao usuário
+# 6. Pedir um número ao usuário
 numero = float(input("Digite um número: "))
 
 # Calcula o quadrado do número
